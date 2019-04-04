@@ -1,1 +1,2 @@
 index-name=dev
+index-since=20190101
