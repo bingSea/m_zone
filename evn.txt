@@ -1,6 +1,2 @@
 index-name=dev
-<<<<<<< HEAD
 index-since=20190103
-=======
-index-since=20190102
->>>>>>> 0715cd25b5b4d23a291191a1b49c02336f25350f
