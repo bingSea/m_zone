@@ -1,2 +1,6 @@
 index-name=dev
+<<<<<<< HEAD
 index-since=20190102
+=======
+index-since=20190103
+>>>>>>> also modifed evn
